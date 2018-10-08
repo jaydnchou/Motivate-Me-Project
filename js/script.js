@@ -23,6 +23,10 @@ var quotes = [
 		source: "Ursula K. Le Guind"
 	},
 	{
+		quote: "Simplicity is the ultimate sophistication.",
+		source: "Leonardo da Vinci"
+	},
+	{
 		quote: "Be yourself. Everyone else is already taken.",
 		source: "Oscar Wilde"
 	},
@@ -35,12 +39,20 @@ var quotes = [
 		source: "Lao Tzu"
 	},
 	{
+		quote: "Design is thinking made visual.",
+		source: "Saul Bass"
+	},
+	{
 		quote: "Live your dream and wear your passion.",
 		source: "Holstee Manifesto"
 	},
 	{
 		quote: "Better to do something imperfectly than to do nothing flawlessly.",
 		source: "Robert H. Schuller"
+	},
+	{
+		quote: "Make it simple, but significant.",
+		source: "Don Draper"
 	}
 ];
 
